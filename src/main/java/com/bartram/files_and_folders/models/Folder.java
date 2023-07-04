@@ -21,7 +21,7 @@ public class Folder {
     private List<File> files;
 
     @ManyToOne
-    @JoinColumn(name = "person_id", nullable = true)
+    @JoinColumn(name = "person_id")
     private Person person;
 
     public Folder() {

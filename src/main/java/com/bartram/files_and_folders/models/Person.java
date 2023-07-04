@@ -1,6 +1,5 @@
 package com.bartram.files_and_folders.models;
 
-import com.bartram.files_and_folders.models.Folder;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 import javax.persistence.*;

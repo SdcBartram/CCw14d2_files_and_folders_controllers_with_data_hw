@@ -6,7 +6,6 @@ import com.bartram.files_and_folders.models.Person;
 import com.bartram.files_and_folders.repositories.FileRepository;
 import com.bartram.files_and_folders.repositories.FolderRepository;
 import com.bartram.files_and_folders.repositories.PersonRepository;
-import org.hibernate.engine.jdbc.batch.spi.BatchObserver;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.ApplicationArguments;
 import org.springframework.boot.ApplicationRunner;

@@ -1,6 +1,5 @@
 package com.bartram.files_and_folders.controllers;
 
-import com.bartram.files_and_folders.models.File;
 import com.bartram.files_and_folders.models.Folder;
 import com.bartram.files_and_folders.repositories.FolderRepository;
 import org.springframework.beans.factory.annotation.Autowired;
